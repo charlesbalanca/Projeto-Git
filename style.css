@@ -1,0 +1,102 @@
+/* todas as paginas */
+
+p{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+/* tela login */
+
+p {
+    color: rgb(230, 221, 221);
+}
+
+button {
+    width: 70px;
+}
+
+input {    
+    width: 130px;
+    background-color: rgb(199, 193, 193);
+}
+
+#bLogin {
+    margin-left: 680px;
+}
+
+#IdLogin {
+    margin-bottom: 5px;
+}
+
+#Imagem_user {
+    margin-left: 600px;
+    margin-top: 40px;
+}
+
+#cadastro {
+    padding-left: 620px;
+}
+
+div>input{
+    margin-left: 660px;
+}
+
+#esqueceu {
+    margin-top: -41px;
+    padding-left: 715px;
+}
+
+/* tela inicial */
+
+.topo {
+    background-color: blue;
+}
+
+.lateral {
+    padding-top: 10px;
+    margin-right: 1500px;
+    padding-right: 80px;
+    background-color: blue;
+}
+
+.lateral>div>p {
+    margin-bottom: 50px;
+    margin-left: 10px;
+}
+
+.centro>p {
+    padding-top: 10px;
+}
+
+.centro {
+    height: 405px;
+    background-size: 90%;
+    margin-top: -455px;
+    margin-left: 77px;
+    vertical-align: sub;
+}
+
+#historico{
+    margin-left: 655px;
+    margin-bottom: 140px;
+    
+}
+
+#detalhes {
+    margin-left: 645px;
+    margin-top: 0px;
+}
+
+#movimentacoes {
+    margin-left: 650px;   
+}
+
+#idChart {
+    margin-left: -70px;
+    margin-bottom: -170px;
+}
+
+#idExtrato {
+    margin-left: -90px;
+    margin-bottom: 0px;
+}
+/* fim do css */
